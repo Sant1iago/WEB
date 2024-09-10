@@ -1,0 +1,40 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: #333;
+    font-family: montserrat;
+}
+
+.flex-item {
+    flex-grow: 1;
+    margin: 20px;
+    max-width: 340px;
+    border: 2px solid #333;
+    padding: 20px;
+}
+
+.flex-item:hover{
+    border-color:#449 ;
+    box-shadow: 0px 0px 20px #4498;
+}
+
+.flex-item:focus{
+    border-color:#a02;
+}
+
+h2, h3 {
+    margin: 0;
+}
+
+h3 {
+    color: #aaa;
+}
+
+p, b {
+    color: #495;
+}
+
+.llave-img {
+    width: 300px;
+}

@@ -1,0 +1,93 @@
+body {
+    background-color: #ccc;
+    font-family: Montserrat;
+}
+
+                                /* CLICKS */
+.contenedorR{
+    background-color: #a32;
+    padding: 20px;
+}
+
+.contenedorA{
+    background-color: #35a;
+    padding: 27px;
+}
+
+
+                                /* DOBLE CLICK */
+
+.dblclick{
+    background-color: #4b4;
+    padding: 20px;
+
+}
+
+
+
+                                /* OVER & OUT */
+
+.over{
+    background-color: #086;
+    padding: 28px;
+
+}
+
+.out{
+    background-color: #fa8;
+    padding: 30px;
+}
+
+
+
+h2 {
+    text-align: center;
+    background-color: #f88
+}
+
+                                /* CONTEXTMENU */
+.conmenu{
+    background-color: #f7f;
+    padding: 20px;
+}
+
+
+                                /* MOUSEENTER */
+.enter{
+    background-color: #921345;
+    padding: 30px;
+}
+
+
+
+                                /* MOUSELEAVE */
+.leave{
+    background-color: #237654;
+    padding: 30px;
+}
+
+
+
+                                /* MOUSEUP */
+.up{
+    background-color: #67781239;
+    padding: 30px;
+}
+
+
+
+
+                                /* MOUSEDOWN */
+.down{
+    background-color: #000;
+    padding: 30px;
+}
+
+
+
+
+                                /* MOUSEMOVE */
+.move{
+    background-color: #003281;
+    padding: 30px;
+}

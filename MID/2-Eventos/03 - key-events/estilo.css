@@ -1,0 +1,11 @@
+.contenedor1{
+    padding: 30px;
+    background-color: #f88;
+}
+
+.input-prueba{
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 6px;
+    color: #777; /* gris clarito */
+}
